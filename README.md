@@ -1,5 +1,5 @@
 ## If you like this project, please give it a star ⭐  
-## A JavaScript userscript for automating repetitive tasks on websites
+A JavaScript userscript for automating repetitive tasks on websites
 ## 新增了 高级混合联赛SBC 挑战自动循环功能，可在挑战列表页一键启动自动处理流程。
 <img width="746" height="490" alt="image" src="https://github.com/user-attachments/assets/d7d28b9d-fef6-4ae8-a151-fd765b7ec120" />
 
