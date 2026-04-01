@@ -49,3 +49,5 @@
 3. 一旦默契已达标，后续替换优先走省资源。
 4. 当场上已经没有假想球员后，再做一次最终降分复检。
 5. 如果降分后仍满足全部 SBC 条件，就保存更省的阵容。
+
+## If you like this project, please give it a star ⭐   
