@@ -1,4 +1,6 @@
-新增了 高级混合联赛SBC 挑战自动循环功能，可在挑战列表页一键启动自动处理流程。
+## If you like this project, please give it a star ⭐  
+
+## 新增了 高级混合联赛SBC 挑战自动循环功能，可在挑战列表页一键启动自动处理流程。
 <img width="746" height="490" alt="image" src="https://github.com/user-attachments/assets/d7d28b9d-fef6-4ae8-a151-fd765b7ec120" />
 
 
@@ -49,6 +51,4 @@
 2. 如果当前已替换上的真人球员提供的有效默契还不够，就尝试进行一次位置重排。
 3. 一旦默契已达标，后续替换优先走省资源。
 4. 当场上已经没有假想球员后，再做一次最终降分复检。
-5. 如果降分后仍满足全部 SBC 条件，就保存更省的阵容。
-
-## If you like this project, please give it a star ⭐   
+5. 如果降分后仍满足全部 SBC 条件，就保存更省的阵容。 
