@@ -1,5 +1,6 @@
 新增了 高级混合联赛SBC 挑战自动循环功能，可在挑战列表页一键启动自动处理流程。
-<img width="742" height="632" alt="image" src="https://github.com/user-attachments/assets/4300930c-914f-42d2-b7a6-46812d9f2702" />
+<img width="746" height="490" alt="image" src="https://github.com/user-attachments/assets/d7d28b9d-fef6-4ae8-a151-fd765b7ec120" />
+
 
 点击“循环完成”则开始自动循环完成SBC
 自动流程为：
