@@ -2,7 +2,7 @@
 <img width="746" height="490" alt="image" src="https://github.com/user-attachments/assets/d7d28b9d-fef6-4ae8-a151-fd765b7ec120" />
 
 
-点击“循环完成”则开始自动循环完成SBC
+点击“开始循环”则开始自动循环完成SBC
 自动流程为：
 
 1. 自动寻找当前未完成挑战
