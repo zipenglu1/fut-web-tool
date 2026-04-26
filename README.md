@@ -1,4 +1,4 @@
-# FSU EAFC FUT Web Enhancer PLUS
+# FSU EAFC FUT Web PLUS
 
 <p align="center">
   <strong>EA SPORTS FC Ultimate Team Web App userscript for SBC automation, player management, price tools, pack utilities, and enhanced card information.</strong>
@@ -23,10 +23,10 @@
 
 ### 项目简介
 
-**FSU EAFC FUT Web Enhancer PLUS** 是基于 FSU 的 EA SPORTS FC Ultimate Team Web App 增强脚本。  
+**FSU EAFC FUT Web PLUS** 是基于 FSU 的 EA SPORTS FC Ultimate Team Web App 增强脚本。  
 本版本在原 FSU 功能基础上，面向 SBC、球员管理、价格查询、开包、FUT.GG / FUTBIN 辅助和球员信息展示做了扩展与优化。
 
-脚本当前版本为 **26.08.1**，适用于 EA SPORTS FC Ultimate Team Web App，并额外适配 FUTBIN、FUT.GG 与 EasySBC 的相关页面。
+脚本当前版本为 **26.08.1**，适用于 EA SPORTS FC Ultimate Team Web App。
 
 > 本项目不是 EA 官方工具。请自行评估自动化操作风险，尤其是自动提交 SBC、批量开包、批量出售、自动购买等功能。
 
@@ -339,10 +339,10 @@
 
 ### Overview
 
-**FSU EAFC FUT Web Enhancer PLUS** is a userscript for the EA SPORTS FC Ultimate Team Web App, based on the original FSU enhancer and extended with additional automation, SBC workflow improvements, player management tools, price utilities, pack tools, and enhanced player-card information.
+**FSU EAFC FUT Web PLUS** is a userscript for the EA SPORTS FC Ultimate Team Web App, based on the original FSU enhancer and extended with additional automation, SBC workflow improvements, player management tools, price utilities, pack tools, and enhanced player-card information.
 
 Current version: **26.08.1**.  
-The script targets the EA SPORTS FC Ultimate Team Web App and also supports related FUTBIN, FUT.GG, and EasySBC pages.
+The script targets the EA SPORTS FC Ultimate Team Web App.
 
 > This project is not affiliated with EA. Use automation features at your own risk, especially automatic SBC submission, bulk pack opening, quick selling, and auto-buying.
 
