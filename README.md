@@ -44,7 +44,9 @@
 - 完成后自动刷新列表并继续下一项。
 - 对无法完成的挑战进行临时跳过，避免循环卡死。
 <img width="766" height="481" alt="image" src="https://github.com/user-attachments/assets/03242bdb-77ea-4448-85d1-abab9d5c9225" />
+
 -点击开始循环进行自动化进程
+
 #### SBC 方案与填充增强
 
 - 支持 FUTBIN / FUT.GG 方案导入。
@@ -358,7 +360,9 @@ The script targets the EA SPORTS FC Ultimate Team Web App and also supports rela
 - Refreshes the challenge list and continues to the next challenge.
 - Temporarily skips failed challenges to avoid blocking the loop.
 <img width="766" height="481" alt="image" src="https://github.com/user-attachments/assets/08207f9f-b146-45d7-8775-483bae02f1f9" />
+
 -Entering'开始循环'to star loop
+
 #### SBC Template and Squad Building Enhancements
 
 - Import SBC solutions from FUTBIN or FUT.GG.
