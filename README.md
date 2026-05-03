@@ -25,6 +25,7 @@
 
 **FSU EAFC FUT Web PLUS** 是基于 FSU 的 EA SPORTS FC Ultimate Team Web App 增强脚本。  
 本版本在原 FSU 功能基础上，面向 SBC、球员管理、价格查询、开包、FUT.GG / FUTBIN 辅助和球员信息展示做了扩展与优化。
+与原版差异内容视频介绍：https://space.bilibili.com/80008515
 
 脚本当前版本为 **26.08.1**，适用于 EA SPORTS FC Ultimate Team Web App。
 
@@ -343,7 +344,7 @@
 
 Current version: **26.08.1**.  
 The script targets the EA SPORTS FC Ultimate Team Web App.
-
+Different between originl FSU：https://space.bilibili.com/80008515
 > This project is not affiliated with EA. Use automation features at your own risk, especially automatic SBC submission, bulk pack opening, quick selling, and auto-buying.
 
 ---
